@@ -1,0 +1,15 @@
+C:\Users\Fatih\Desktop\C#-patika\ödev\bin\Debug\net7.0\ödev.exe
+C:\Users\Fatih\Desktop\C#-patika\ödev\bin\Debug\net7.0\ödev.deps.json
+C:\Users\Fatih\Desktop\C#-patika\ödev\bin\Debug\net7.0\ödev.runtimeconfig.json
+C:\Users\Fatih\Desktop\C#-patika\ödev\bin\Debug\net7.0\ödev.dll
+C:\Users\Fatih\Desktop\C#-patika\ödev\bin\Debug\net7.0\ödev.pdb
+C:\Users\Fatih\Desktop\C#-patika\ödev\obj\Debug\net7.0\ödev.csproj.AssemblyReference.cache
+C:\Users\Fatih\Desktop\C#-patika\ödev\obj\Debug\net7.0\ödev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatih\Desktop\C#-patika\ödev\obj\Debug\net7.0\ödev.AssemblyInfoInputs.cache
+C:\Users\Fatih\Desktop\C#-patika\ödev\obj\Debug\net7.0\ödev.AssemblyInfo.cs
+C:\Users\Fatih\Desktop\C#-patika\ödev\obj\Debug\net7.0\ödev.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\Desktop\C#-patika\ödev\obj\Debug\net7.0\ödev.dll
+C:\Users\Fatih\Desktop\C#-patika\ödev\obj\Debug\net7.0\refint\ödev.dll
+C:\Users\Fatih\Desktop\C#-patika\ödev\obj\Debug\net7.0\ödev.pdb
+C:\Users\Fatih\Desktop\C#-patika\ödev\obj\Debug\net7.0\ödev.genruntimeconfig.cache
+C:\Users\Fatih\Desktop\C#-patika\ödev\obj\Debug\net7.0\ref\ödev.dll
