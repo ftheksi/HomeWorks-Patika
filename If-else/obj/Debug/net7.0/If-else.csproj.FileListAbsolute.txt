@@ -1,0 +1,15 @@
+C:\Users\Fatih\Desktop\C#-patika\If-else\bin\Debug\net7.0\If-else.exe
+C:\Users\Fatih\Desktop\C#-patika\If-else\bin\Debug\net7.0\If-else.deps.json
+C:\Users\Fatih\Desktop\C#-patika\If-else\bin\Debug\net7.0\If-else.runtimeconfig.json
+C:\Users\Fatih\Desktop\C#-patika\If-else\bin\Debug\net7.0\If-else.dll
+C:\Users\Fatih\Desktop\C#-patika\If-else\bin\Debug\net7.0\If-else.pdb
+C:\Users\Fatih\Desktop\C#-patika\If-else\obj\Debug\net7.0\If-else.csproj.AssemblyReference.cache
+C:\Users\Fatih\Desktop\C#-patika\If-else\obj\Debug\net7.0\If-else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatih\Desktop\C#-patika\If-else\obj\Debug\net7.0\If-else.AssemblyInfoInputs.cache
+C:\Users\Fatih\Desktop\C#-patika\If-else\obj\Debug\net7.0\If-else.AssemblyInfo.cs
+C:\Users\Fatih\Desktop\C#-patika\If-else\obj\Debug\net7.0\If-else.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\Desktop\C#-patika\If-else\obj\Debug\net7.0\If-else.dll
+C:\Users\Fatih\Desktop\C#-patika\If-else\obj\Debug\net7.0\refint\If-else.dll
+C:\Users\Fatih\Desktop\C#-patika\If-else\obj\Debug\net7.0\If-else.pdb
+C:\Users\Fatih\Desktop\C#-patika\If-else\obj\Debug\net7.0\If-else.genruntimeconfig.cache
+C:\Users\Fatih\Desktop\C#-patika\If-else\obj\Debug\net7.0\ref\If-else.dll
