@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿
 
 
 Console.Write("Lütfen Bir sayı giriniz:");
@@ -25,7 +25,7 @@ Console.WriteLine("ciftToplam:"+ciftToplam);
 
 
 
-//break-continue
+// break-continue
 
 for (int i = 1; i <10; i++){
     
@@ -38,4 +38,29 @@ for (int i = 1; i <10; i++){
     if(i==4)
         continue;
     Console.WriteLine(i);
+}
+
+int sayi = int.Parse(Console.ReadLine());
+int sayac3 = 1;
+int toplam = 0;
+while (sayac3<=sayi)
+{
+    toplam+=sayac3;
+    sayac3++;
+}
+Console.WriteLine(toplam/sayi);
+
+char character = 'a';
+while (character<'z')
+{
+    Console.WriteLine(character);
+    character++;
+}    
+
+
+string[] arabalar = {"bmw","ford","toyota","nissan"};
+
+foreach(var araba in arabalar)
+{
+    Console.WriteLine(araba);
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Fatih\\Desktop\\C#-patika\\donguler-for-loop\\donguler-for-loop.csproj": {}
+    "C:\\Users\\Fatih\\Desktop\\C#-patika\\donguler-for-loop\\donguler-for-loop.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Fatih\\Desktop\\C#-patika\\donguler-for-loop\\donguler-for-loop.csproj": {
+    "C:\\Users\\Fatih\\Desktop\\C#-patika\\donguler-for-loop\\donguler-for-loop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Fatih\\Desktop\\C#-patika\\donguler-for-loop\\donguler-for-loop.csproj",
+        "projectUniqueName": "C:\\Users\\Fatih\\Desktop\\C#-patika\\donguler-for-loop\\donguler-for-loop.csproj",
         "projectName": "donguler-for-loop",
-        "projectPath": "c:\\Users\\Fatih\\Desktop\\C#-patika\\donguler-for-loop\\donguler-for-loop.csproj",
+        "projectPath": "C:\\Users\\Fatih\\Desktop\\C#-patika\\donguler-for-loop\\donguler-for-loop.csproj",
         "packagesPath": "C:\\Users\\Fatih\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Fatih\\Desktop\\C#-patika\\donguler-for-loop\\obj\\",
+        "outputPath": "C:\\Users\\Fatih\\Desktop\\C#-patika\\donguler-for-loop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Fatih\\AppData\\Roaming\\NuGet\\NuGet.Config",
