@@ -1,0 +1,15 @@
+C:\Users\Fatih\Desktop\C#-patika\array-metodlar\bin\Debug\net7.0\array-metodlar.exe
+C:\Users\Fatih\Desktop\C#-patika\array-metodlar\bin\Debug\net7.0\array-metodlar.deps.json
+C:\Users\Fatih\Desktop\C#-patika\array-metodlar\bin\Debug\net7.0\array-metodlar.runtimeconfig.json
+C:\Users\Fatih\Desktop\C#-patika\array-metodlar\bin\Debug\net7.0\array-metodlar.dll
+C:\Users\Fatih\Desktop\C#-patika\array-metodlar\bin\Debug\net7.0\array-metodlar.pdb
+C:\Users\Fatih\Desktop\C#-patika\array-metodlar\obj\Debug\net7.0\array-metodlar.csproj.AssemblyReference.cache
+C:\Users\Fatih\Desktop\C#-patika\array-metodlar\obj\Debug\net7.0\array-metodlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatih\Desktop\C#-patika\array-metodlar\obj\Debug\net7.0\array-metodlar.AssemblyInfoInputs.cache
+C:\Users\Fatih\Desktop\C#-patika\array-metodlar\obj\Debug\net7.0\array-metodlar.AssemblyInfo.cs
+C:\Users\Fatih\Desktop\C#-patika\array-metodlar\obj\Debug\net7.0\array-metodlar.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\Desktop\C#-patika\array-metodlar\obj\Debug\net7.0\array-metodlar.dll
+C:\Users\Fatih\Desktop\C#-patika\array-metodlar\obj\Debug\net7.0\refint\array-metodlar.dll
+C:\Users\Fatih\Desktop\C#-patika\array-metodlar\obj\Debug\net7.0\array-metodlar.pdb
+C:\Users\Fatih\Desktop\C#-patika\array-metodlar\obj\Debug\net7.0\array-metodlar.genruntimeconfig.cache
+C:\Users\Fatih\Desktop\C#-patika\array-metodlar\obj\Debug\net7.0\ref\array-metodlar.dll
